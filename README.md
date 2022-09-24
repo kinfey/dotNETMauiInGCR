@@ -4,7 +4,7 @@
 
 在中国，.NET MAUI 有离线安装问题 , 大家可以参考该方法去安装相关yingyong
 
-.NET MAUI 配置技巧 <a href="./guidline/Install/OfflineInstaller">进入查看</a>
+.NET MAUI 配置技巧 <a href="./guidline/Install/OfflineInstaller.md">进入查看</a>
 
 
 |  内容  | 点击链接 |
